@@ -87,4 +87,14 @@ article:nth-child(even){
 
 article:nth-child(-n+2) h2{
     color: red;
+
+}
+
+article:nth-child(-n+2) h2::after {
+    content: ' new';
+    color: royalblue;
+    text-align: center;
+    background-color: red;
+    padding-right: 5px;
+    border-radius: 15px;
 }
