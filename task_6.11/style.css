@@ -98,3 +98,21 @@ article:nth-child(-n+2) h2::after {
     padding-right: 5px;
     border-radius: 15px;
 }
+
+
+
+
+@font-face {
+    src: url('__❸__');
+    font-family: "OpenSans Regular";
+}
+
+__❹__ {
+    __❺__: url('__❻__');
+    font-family: "OpenSans Italic";
+}
+
+__❼__ {
+    __❽__: url('__❾__');
+    font-family: "OpenSans Bold";
+}
